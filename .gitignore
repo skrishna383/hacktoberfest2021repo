@@ -1,10 +1,10 @@
 # Compiled class file
 *.class
 
-# Log file = Hum hai yam
+# Log file
 *.log
 
-# BlueJ files
+# BlueJ files = Kon hai ham?
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
